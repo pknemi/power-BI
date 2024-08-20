@@ -1,5 +1,5 @@
 # power-BI
-About this project
+# About this project
 Adventure Works Power BI Dashboard
 
 I'm excited to share my latest project on the Maven Showcase: a comprehensive Power BI dashboard for Adventure Works! This dashboard includes:
